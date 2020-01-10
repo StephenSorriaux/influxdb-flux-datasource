@@ -1,4 +1,4 @@
-# InfluxDB (Flux) Datasource [BETA]
+# InfluxDB (Flux) Datasource [BETA] (fork)
 
 [![CircleCI](https://circleci.com/gh/grafana/influxdb-flux-datasource/tree/master.svg?style=svg)](https://circleci.com/gh/grafana/influxdb-flux-datasource/tree/master)
 [![dependencies Status](https://david-dm.org/grafana/influxdb-flux-datasource/status.svg)](https://david-dm.org/grafana/influxdb-flux-datasource)
