@@ -1,6 +1,6 @@
 {
   "name": "grafana-influxdb-flux-datasource",
-  "version": "5.4.1",
+  "version": "5.4.2",
   "description": "Grafana data source for InfluxDB (Flux query support)",
   "private": true,
   "scripts": {

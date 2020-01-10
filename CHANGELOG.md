@@ -1,5 +1,9 @@
 # Change Log
 
+## [5.4.2] - 2020-01-10 (fork)
+
+- Removes hard coded limit
+
 ## [5.4.1] - 2019-10-28
 
 - Query editor bugfixes
